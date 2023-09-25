@@ -1,4 +1,5 @@
 For binary downloads for Windows and Linux please go to the "releases" section
+https://github.com/LinuxBeaver/Gimp_Crayon_Text/releases
 
 ## Crayon Text plugin for Gimp
 
