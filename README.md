@@ -63,6 +63,7 @@ ninja -C build
 
 ## Preview of the day 2 update that calls the original color that an image was.
 
-![image](https://github.com/LinuxBeaver/Gimp_Crayon_Text/assets/78667207/4fe3de7e-1550-4393-ac77-e212b7e0b61b)
+![image](https://github.com/LinuxBeaver/Gimp_Crayon_Text/assets/78667207/d672ecc9-ce58-4438-b7e2-e276426899e7)
+
 
 
