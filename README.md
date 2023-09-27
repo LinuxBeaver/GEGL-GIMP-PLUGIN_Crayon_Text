@@ -59,5 +59,10 @@ ninja -C build
 
 ## Another preview of this plugin making non crayon hand drawn text
 
-![image preview](ImagePreviews/p3.png)
+![image preview](ImagePreviews/p3.png) 
+
+## Preview of the day 2 update that calls the original color that an image was.
+
+![image](https://github.com/LinuxBeaver/Gimp_Crayon_Text/assets/78667207/4fe3de7e-1550-4393-ac77-e212b7e0b61b)
+
 
