@@ -101,13 +101,13 @@ static void attach (GeglOperation *operation)
                                   NULL);
 
 #define muhcolorremoval \
-" median-blur radius=0 color-to-alpha color=#36ff00 transparency-threshold=0.211755 "\
+" median-blur abyss-policy=none radius=0 color-to-alpha color=#36ff00 transparency-threshold=0.211755 "\
 
   state->thecolorremover = gegl_node_new_child (gegl,
                                   "operation", "gegl:gegl", "string", muhcolorremoval,
                                   NULL);
 #define muhblur \
-" gaussian-blur std-dev-x=0.5 std-dev-y=0.5 median-blur radius=0 "\
+" gaussian-blur  abyss-policy=none  clip-extent=false std-dev-x=0.5 std-dev-y=0.5 median-blur  abyss-policy=none  radius=0 "\
 
   state->blurfix = gegl_node_new_child (gegl,
                                   "operation", "gegl:gegl", "string", muhblur,
