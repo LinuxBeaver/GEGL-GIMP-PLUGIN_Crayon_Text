@@ -9,7 +9,6 @@ do
     fi
 done
 
-  mkdir -p LinuxBinaries
-  mv $(find . -name '*.so') LinuxBinaries/
-
+  mkdir -p WindowsBinaries
+  mv $(find . -name '*.dll') WindowsBinaries/
 
