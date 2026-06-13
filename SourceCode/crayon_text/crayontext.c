@@ -16,7 +16,7 @@
  * Credit to Øyvind Kolås (pippin) for major GEGL contributions
  * 2023 Beaver, Crayon Text
 
-Test this plugin without installing by pasting this syntax into Gimp's GEGL Graph filter. This plugin requires my "bevel" plugin to work and it does ship with it.
+Test this plugin without installing by pasting this syntax into Gimpꞌs GEGL Graph filter. This plugin requires my "bevel" plugin to work and it does ship with it.
 
 color-overlay value=#36ff00
 id=1  subtract aux=[ ref=1 lb:bevel  radius1=10  bevel1=90 bevel2=40  ]
